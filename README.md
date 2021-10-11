@@ -5,7 +5,7 @@ Utility to print colored text in golang.
 ## Usage
 
 <img
-  src="https://raw.githubusercontent.com/ahmadrosid/go-color/main/go-color.png"
+  src="https://raw.githubusercontent.com/ahmadrosid/go-color/main/sample.png"
   alt="Go Color"
   width="50%"
   align="right"
