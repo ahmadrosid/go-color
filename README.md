@@ -3,6 +3,7 @@
 Utility to print colored text in golang.
 
 ## Usage
+<h1></h1>
 
 <img
   src="https://raw.githubusercontent.com/ahmadrosid/go-color/main/sample.png"
