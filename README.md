@@ -15,5 +15,6 @@ func main() {
 }
 ```
 
-**Example**
+### Example
+
 ![go-color](/go-color.png)
