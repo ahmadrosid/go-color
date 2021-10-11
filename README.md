@@ -14,3 +14,6 @@ func main() {
 	println(color.Format(color.PURPLE, "I'm purple!"))
 }
 ```
+
+**Example**
+![go-color](/go-color.png)
