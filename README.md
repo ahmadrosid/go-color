@@ -3,15 +3,6 @@
 Utility to print colored text in golang.
 
 ## Usage
-<h1></h1>
-
-<img
-  src="https://raw.githubusercontent.com/ahmadrosid/go-color/main/sample.png"
-  alt="Go Color"
-  width="50%"
-  align="right"
-/>
-
 ```go
 import "github.com/ahmadrosid/go-color/color"
 
@@ -23,3 +14,6 @@ func main() {
 	println(color.Format(color.PURPLE, "I'm purple!"))
 }
 ```
+
+## Example
+![Go Color](/example.png)
